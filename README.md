@@ -22,3 +22,5 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Angular-informational?style=flat&logo=Angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Wordpress-informational?style=flat&logo=wordpressr&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
