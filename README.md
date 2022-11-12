@@ -1,14 +1,13 @@
+Hey there 👋
+
+I’m Smit Panchal, a Web Developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+
+
 - 👋 Hi, I’m @smit479
 - 👀 I’m interested in Web Development and Software Development
 - 💞️ I’m interested in Software Development and Java Development 
 - 📫 How to reach me - 9892740213 - smitpanchal464@gmail.com
 - I have a personal portfolio - http://mypm.ezyro.com
-
-
-<!---
-smit479/smit479 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)]([https:braydoncoyer.dev](http://mypm.ezyro.com))
@@ -29,4 +28,8 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Style-R-informational?style=flat&logo=R&logoColor=white&color=4AB197)
 
 
+<!---
+smit479/smit479 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
