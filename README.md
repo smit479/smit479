@@ -16,17 +16,9 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/smit-panchal-a254a6144/)
 
 
-[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-[](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=4AB197)
-[](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=4AB197)
-...
-
-<details>
-<summary>More Skills</summary>
 
 [](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Bootstrap5-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Bootstrap5-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-...
-</details>
+![](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Angular-informational?style=flat&logo=Angular&logoColor=white&color=4AB197)
